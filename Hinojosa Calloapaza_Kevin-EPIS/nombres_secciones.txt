@@ -1,0 +1,12 @@
+Persona 1: 
+Nombre: Kevin
+Sección: A
+
+Persona 2: 
+Nombre: Sunder
+Sección: E
+
+Persona 3: 
+Nombre: Cristian
+Sección: B
+
